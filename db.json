@@ -1,29 +1,24 @@
 {
   "words": [
     {
-      "id": 1,
       "second": 10,
-      "title": "hello"
+      "text": "hello"
     },
     {
-      "id": 2,
       "second": 10,
-      "title": "world"
+      "text": "world"
     },
     {
-      "id": 3,
       "second": 5,
-      "title": "this"
+      "text": "this"
     },
     {
-      "id": 4,
       "second": 3,
-      "title": "is"
+      "text": "is"
     },
     {
-      "id": 5,
       "second": 15,
-      "title": "kakaopay"
+      "text": "kakaopay"
     }
   ]
 }
