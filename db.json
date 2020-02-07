@@ -2,22 +2,27 @@
   "words": [
     {
       "id": 1,
+      "second": 10,
       "title": "hello"
     },
     {
       "id": 2,
+      "second": 10,
       "title": "world"
     },
     {
       "id": 3,
+      "second": 5,
       "title": "this"
     },
     {
       "id": 4,
+      "second": 3,
       "title": "is"
     },
     {
       "id": 5,
+      "second": 15,
       "title": "kakaopay"
     }
   ]
