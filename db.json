@@ -9,7 +9,7 @@
       "text": "world"
     },
     {
-      "second": 5,
+      "second": 8,
       "text": "this"
     },
     {
@@ -19,6 +19,34 @@
     {
       "second": 15,
       "text": "kakaopay"
+    },
+    {
+      "second": 5,
+      "text": "we"
+    },
+    {
+      "second": 5,
+      "text": "are"
+    },
+    {
+      "second": 15,
+      "text": "kakaopay"
+    },
+    {
+      "second": 15,
+      "text": "frontend"
+    },
+    {
+      "second": 20,
+      "text": "developers"
+    },
+    {
+      "second": 15,
+      "text": "join"
+    },
+    {
+      "second": 10,
+      "text": "us"
     }
   ]
 }
